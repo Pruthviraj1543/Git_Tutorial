@@ -8,3 +8,7 @@ git diff --staged file_name => to see file diff in staged state
 git reset file_name => to unstage file
 git checkout file_name => to go back to last commit
 git checkout . => for all files
+
+git add -A   => stages ALL
+git add .    => stages new and modified, withou deleted
+git add -u stages modified and deleted, without new

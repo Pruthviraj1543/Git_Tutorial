@@ -1,5 +1,5 @@
 hi there
-git push -u master origin
-git pull master origin
+git push -u origin master
+git pull origin master
 git add .
 git commit -m "comment"

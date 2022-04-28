@@ -5,3 +5,6 @@ git add .
 git commit -m "comment"
 git diff file name
 git diff --staged file_name => to see file diff in staged state
+git reset file_name => to unstage file
+git checkout file_name => to go back to last commit
+git checkout . => for all files

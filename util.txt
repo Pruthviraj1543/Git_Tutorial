@@ -1,0 +1,5 @@
+hi there
+git push -u master origin
+git pull master origin
+git add .
+git commit -m "comment"
